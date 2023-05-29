@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "85685098347",
+    "project_id": "mobile2av",
+    "storage_bucket": "mobile2av.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:85685098347:android:4139df7a49287336d2de2e",
+        "android_client_info": {
+          "package_name": "com.example.esportesrecife"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBZv7DfaGqwZE2lZDwE1FqXqSFJBsjf0O0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
